@@ -27,7 +27,7 @@ His current research focuses on the integration of Artificial Intelligence (AI) 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📝 Projects
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AI System</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AI System</div><img src='images/project-smoke.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **Smoking monitoring project** <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - System architecture: This project is a smoking detection system based on YOLOv8 and OpenVINO, which includes backend management, streaming media access, and algorithm analysis. It supports real-time analysis of multiple video channels.
@@ -36,9 +36,6 @@ His current research focuses on the integration of Artificial Intelligence (AI) 
 
 </div>
 </div>
-
-
-
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
