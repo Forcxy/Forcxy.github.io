@@ -21,33 +21,39 @@ Chen Xiangyu completed his undergraduate studies at Hefei University of Technolo
 
 His current research focuses on the integration of Artificial Intelligence (AI) with embedded systems.
 
-
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
 # 📝 Projects
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AI System</div><img src='images/project-smoke.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **Smoking monitoring project** <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
-- System architecture: This project is a smoking detection system based on YOLOv8 and OpenVINO, which includes backend management, streaming media access, and algorithm analysis. It supports real-time analysis of multiple video channels.
-- Personal job: I am responsible for the algorithm analysis module, decoding video streams using FFmpeg, and optimizing the YOLOv8n model with OpenVINO to implement smoking behavior recognition and alarm logic.
-- Optimization strategy: The system significantly improves detection efficiency and system stability through keyframe detection, result reuse, cyclic frame caching, and multi-threaded processing. Alarm videos are generated on demand and support real-time streaming.
+- This project is a real-time smoking detection system based on YOLOv8 and OpenVINO, supporting multi-channel video analysis with backend management and streaming access. I was responsible for the algorithm module, using FFmpeg to decode video streams and optimizing the YOLOv8n model with OpenVINO to detect smoking behavior and trigger alarms. The system enhances efficiency and stability through keyframe detection, result reuse, frame caching, and multi-threading, with on-demand alarm video generation and real-time streaming support.
+</div>
+</div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">model train</div><img src='images/project-train.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**Smoking monitoring project** <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+- Build and train an AlexNet neural network, and log the training process and results into TensorBoard for visualization
 </div>
 </div>
+
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- undergraduate studies
+  - *2023.10* Second-Class Academic Scholarship, Hefei University of Technology
+  - *2023.10* Merit Student Award, Hefei University of Technology
+  - *2023.10* Outstanding Social Practice Award, Hefei University of Technology
+  - *2024.10* Second-Class Academic Scholarship, Hefei University of Technology
+  - *2024.10* Merit Student Award, Hefei University of Technology
+-graduate studies
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.06 - now*, graduate student, University of Electronic Science and Technology of China
+- *2021.09 - 2025.06*, undergraduate student, Hefei University of Technology 
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+# 💬 My Interests
+- Little Cooking Expert
+- A Badminton Lover Who’s Beginner-Level but Passionate
+- A Developing Interest in Reading
+- Not bad hard-tipped calligraphy
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
