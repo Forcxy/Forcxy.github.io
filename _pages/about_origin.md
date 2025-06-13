@@ -26,18 +26,21 @@ His current research focuses on the integration of Artificial Intelligence (AI) 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 📝 Projects
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AI System</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+# 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-**Smoking monitoring project** <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- System architecture: This project is a smoking detection system based on YOLOv8 and OpenVINO, which includes backend management, streaming media access, and algorithm analysis. It supports real-time analysis of multiple video channels.
-- Personal job: I am responsible for the algorithm analysis module, decoding video streams using FFmpeg, and optimizing the YOLOv8n model with OpenVINO to implement smoking behavior recognition and alarm logic.
-- Optimization strategy: The system significantly improves detection efficiency and system stability through keyframe detection, result reuse, cyclic frame caching, and multi-threaded processing. Alarm videos are generated on demand and support real-time streaming.
 
+[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+
+**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
 
-
+- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
