@@ -30,6 +30,7 @@ His current research focuses on the integration of Artificial Intelligence (AI) 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AI System</div><img src='images/project-smoke.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **Smoking monitoring project** <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
 - System architecture: This project is a smoking detection system based on YOLOv8 and OpenVINO, which includes backend management, streaming media access, and algorithm analysis. It supports real-time analysis of multiple video channels.
 - Personal job: I am responsible for the algorithm analysis module, decoding video streams using FFmpeg, and optimizing the YOLOv8n model with OpenVINO to implement smoking behavior recognition and alarm logic.
 - Optimization strategy: The system significantly improves detection efficiency and system stability through keyframe detection, result reuse, cyclic frame caching, and multi-threaded processing. Alarm videos are generated on demand and support real-time streaming.
